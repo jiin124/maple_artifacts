@@ -1,0 +1,35 @@
+{
+  "domain": "games",
+  "lexicon": [
+    {
+      "aspect_name": "Gameplay mechanics"
+    },
+    {
+      "aspect_name": "Control responsiveness"
+    },
+    {
+      "aspect_name": "Visual presentation"
+    },
+    {
+      "aspect_name": "Sound design"
+    },
+    {
+      "aspect_name": "Content variety and progression"
+    },
+    {
+      "aspect_name": "UI/UX and accessibility"
+    },
+    {
+      "aspect_name": "Narrative and immersion"
+    },
+    {
+      "aspect_name": "Technical performance and stability"
+    },
+    {
+      "aspect_name": "Replayability and long-term engagement"
+    },
+    {
+      "aspect_name": "Monetization and value"
+    }
+  ]
+}

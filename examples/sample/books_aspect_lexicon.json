@@ -1,0 +1,23 @@
+{
+  "domain": "books",
+  "lexicon": [
+    {
+      "aspect_name": "Content Quality"
+    },
+    {
+      "aspect_name": "Emotional Impact"
+    },
+    {
+      "aspect_name": "Value Cost"
+    },
+    {
+      "aspect_name": "Readability Accessibility"
+    },
+    {
+      "aspect_name": "Organization Structure"
+    },
+    {
+      "aspect_name": "Cultural Contextual Relevance"
+    }
+  ]
+}
