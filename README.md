@@ -22,7 +22,7 @@
 </p>
 
 <p>
-  📄 <strong>Paper</strong> (Coming Soon)
+  📄 <a href="https://aclanthology.org/2026.aacl-long.95/"><strong>Paper</strong></a>
   &nbsp;|&nbsp;
   <a href="https://github.com/jiin124/maple_artifacts">💻 <strong>Code</strong></a>
   &nbsp;|&nbsp;
